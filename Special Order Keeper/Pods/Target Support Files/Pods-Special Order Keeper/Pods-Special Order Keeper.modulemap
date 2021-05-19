@@ -1,0 +1,6 @@
+framework module Pods_Special_Order_Keeper {
+  umbrella header "Pods-Special Order Keeper-umbrella.h"
+
+  export *
+  module * { export * }
+}
